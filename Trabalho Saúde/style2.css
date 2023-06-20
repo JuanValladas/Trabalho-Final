@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+
+}
+
+.imagem2{
+width: 300px;
+height: 300px;
+margin: 30px;
+border-radius: 30px;
+}   
+
+
+
+.imagem1{
+width: 300px;
+height: 300px;
+margin: 30px;
+border-radius: 30px;
+} 
+
+
+
+.imagem3{
+width: 300px;
+height: 300px;
+margin: 30px;
+border-radius: 30px;
+} 
+
+.texto1{
+margin: 50px;
+margin-top: 20px;
+}     
+
+
+.texto2{
+margin: 20px;
+margin-top: 20px;
+}  
+
+    
+
+
+.texto3{
+margin: 20px;
+margin-top: 20px;
+}  
